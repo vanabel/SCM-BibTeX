@@ -1,0 +1,154 @@
+\begin{thebibliography}{10}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{CrallIshiiLions1992Users}
+Crandall M~G, Ishii H, Lions P~L.
+\newblock User's guide to viscosity solutions of second order partial
+  differential equations.
+\newblock Bull Amer Math Soc (NS), 1992, 27: 1--67
+
+\bibitem{CvitanicKaratzas1996Backward}
+Cvitani\'{c} J, Karatzas I.
+\newblock Backward stochastic differential equations with reflection and
+  {D}ynkin games.
+\newblock Ann Probab, 1996, 24: 2024--2056
+
+\bibitem{DenisHuPeng2011Function}
+Denis L, Hu M, Peng S.
+\newblock Function spaces and capacity related to a sublinear expectation:
+  application to {$G$}-{B}rownian motion paths.
+\newblock Potential Anal, 2011, 34: 139--161
+
+\bibitem{KarouiKapoudjianPardouxPengQuenez1997Reflected}
+El~Karoui N, Kapoudjian C, Pardoux E, et~al.
+\newblock Reflected solutions of backward {SDE}'s, and related obstacle
+  problems for {PDE}'s.
+\newblock Ann Probab, 1997, 25: 702--737
+
+\bibitem{KarouiPardouxQuenez1997Reflected}
+El~Karoui N, Pardoux E, Quenez M~C.
+\newblock Reflected backward {SDE}s and {A}merican options.
+\newblock In: Numerical Methods in Finance. Publ Newton Inst, vol.~13.
+  Cambridge: Cambridge Univ~Press, 1997:  215-231
+
+\bibitem{Hamadene2002Reflected}
+Hamad\`ene S.
+\newblock Reflected {BSDE}'s with discontinuous barrier and application.
+\newblock Stoch Stoch Rep, 2002, 74: 571--596
+
+\bibitem{HamadeneLepeltier2000Reflected}
+Hamad\`ene S, Lepeltier J~P.
+\newblock Reflected {BSDE}s and mixed game problem.
+\newblock Stochastic Process Appl, 2000, 85: 177--188
+
+\bibitem{MR3131313}
+Hu M, Ji S, Peng S, et~al.
+\newblock Backward stochastic differential equations driven by {$G$}-{B}rownian
+  motion.
+\newblock Stochastic Process Appl, 2014, 124: 759--784
+
+\bibitem{MR3138611}
+Hu M, Ji S, Peng S, et~al.
+\newblock Comparison theorem, {F}eynman-{K}ac formula and {G}irsanov
+  transformation for {BSDE}s driven by {$G$}-{B}rownian motion.
+\newblock Stochastic Process Appl, 2014, 124: 1170--1195
+
+\bibitem{HuPeng2009representation}
+Hu M, Peng S.
+\newblock On representation theorem of {$G$}-expectations and paths of
+  {$G$}-{B}rownian motion.
+\newblock Acta Math Appl Sin Engl Ser, 2009, 25: 539--546
+
+\bibitem{hu2013extended}
+Hu M, Peng S. Extended conditional {G}-expectations and related stopping times.
+\newblock \href {http://arxiv.org/abs/1309.3829} {ArXiv:1309.3829} [math.PR],
+  2013
+
+\bibitem{MR908938}
+Karatzas I.
+\newblock On the pricing of {A}merican options.
+\newblock Appl Math Optim, 1988, 17: 37--60
+
+\bibitem{MR1944142}
+Kobylanski M, Lepeltier J~P, Quenez M~C, et~al.
+\newblock Reflected {BSDE} with superlinear quadratic coefficient.
+\newblock Probab Math Statist, 2002, 22: 51--83
+
+\bibitem{MR2185610}
+Lepeltier J~P, Xu M.
+\newblock Penalization method for reflected backward stochastic differential
+  equations with one r.c.l.l. barrier.
+\newblock Statist Probab Lett, 2005, 75: 58--66
+
+\bibitem{MR3814244}
+Li H, Peng S, Song Y.
+\newblock Supermartingale decomposition theorem under {$G$}-expectation.
+\newblock Electron J Probab, 2018, 23: Paper No. 50,  20
+
+\bibitem{MR2802462}
+Li X, Peng S.
+\newblock Stopping times and related {I}t\^{o}'s calculus with {$G$}-{B}rownian
+  motion.
+\newblock Stochastic Process Appl, 2011, 121: 1492--1508
+
+\bibitem{MR1467440}
+Matoussi A.
+\newblock Reflected solutions of backward stochastic differential equations
+  with continuous coefficient.
+\newblock Statist Probab Lett, 1997, 34: 347--354
+
+\bibitem{MR1717527}
+Peng S.
+\newblock Monotonic limit theorem of {BSDE} and nonlinear decomposition theorem
+  of {D}oob-{M}eyer's type.
+\newblock Probab Theory Related Fields, 1999, 113: 473--499
+
+\bibitem{MR2064000}
+Peng S.
+\newblock Filtration consistent nonlinear expectations and evaluations of
+  contingent claims.
+\newblock Acta Math Appl Sin Engl Ser, 2004, 20: 191--214
+
+\bibitem{MR2143645}
+Peng S.
+\newblock Nonlinear expectations and nonlinear {M}arkov chains.
+\newblock Chinese Ann Math Ser B, 2005, 26: 159--184
+
+\bibitem{MR2397805}
+Peng S.
+\newblock {$G$}-expectation, {$G$}-{B}rownian motion and related stochastic
+  calculus of {I}t\^{o} type.
+\newblock In: Stochastic analysis and applications. Abel Symp, vol.~2. Berlin:
+  Springer, 2007:  541-567
+
+\bibitem{MR2474349}
+Peng S.
+\newblock Multi-dimensional {$G$}-{B}rownian motion and related stochastic
+  calculus under {$G$}-expectation.
+\newblock Stochastic Process Appl, 2008, 118: 2223--2253
+
+\bibitem{MR3970247}
+Peng S.
+\newblock Nonlinear expectations and stochastic calculus under uncertainty.
+\newblock Probability Theory and Stochastic Modelling, vol.~95.
+\newblock With robust CLT and G-Brownian motion. Berlin: Springer, 2019
+
+\bibitem{MR880369}
+Rodrigues J~F.
+\newblock Obstacle problems in mathematical physics.
+\newblock North-Holland Mathematics Studies, vol. 134.
+\newblock Notas de Matem\'{a}tica [Mathematical Notes], 114. Amsterdam:
+  North-Holland Publishing~Co., 1987
+
+\bibitem{MR2771205}
+Song Y.
+\newblock Some properties on {$G$}-evaluation and its applications to
+  {$G$}-martingale decomposition.
+\newblock Sci China Math, 2011, 54: 287--300
+
+\bibitem{MR3250653}
+Vorbrink J.
+\newblock Financial markets with volatility uncertainty.
+\newblock J Math Econom, 2014, 53: 64--78
+
+\end{thebibliography}

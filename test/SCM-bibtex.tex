@@ -1,0 +1,10 @@
+\documentclass{SCIYA2017enOL}
+\makeatletter % Reference list option change
+\renewcommand\@biblabel[1]{#1\,\,} % from [1] to 1
+\makeatother %
+\usepackage{cite,hyperref}
+\begin{document}
+\nocite{*}
+\bibliographystyle{scm}
+\bibliography{SCM}
+\end{document}
