@@ -46,3 +46,5 @@ Some Useful Links related to the modification
 2. [Designing BIBTEX Styles](https://texdoc.org/serve/btxhak.pdf/0)
 3. [Change .bst file to eliminate brackets in reference list](https://tex.stackexchange.com/questions/329063/change-bst-file-to-eliminate-brackets-in-reference-list)
 4. [In which programming language are bst (BibTeX style) files written?](https://tex.stackexchange.com/questions/157045/in-which-programming-language-are-bst-bibtex-style-files-written)
+5. [LaTeX Style and BiBTeX Bibliography Formats for Biologists: 
+TeX and LaTeX Resources](http://users.fred.net/tds/lab/latex.html)
