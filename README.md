@@ -1,7 +1,7 @@
 # SCM-BibTeX
 A BibTeX style for Science China of Mathematics
 
-As the style of SCM is quite weird, and it is suggested by official to write bibliography items by hand. Why not to use the MathSciNet bibtex data and take the advantage of bibtex? I try to complement the style file of bibtex, i.e., `scm.bst` which is based on `vancouver.bst`. 
+As the style of SCM is quite weird, and it is suggested by official to write bibliography items by hand. Why not to use the MathSciNet bibtex data and take the advantage of bibtex? I try to complement the style file of bibtex, i.e., `scm.bst` which is based on [`vancouver.bst`](https://gitlab.com/fvdbeek/vancouver.bst). 
 
 Usage
 --------
@@ -39,3 +39,10 @@ should be fixed by
                   New York},
 ...
 ```
+
+Some Useful Links related to the modification
+---------------------------------------------
+1. [Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)
+2. [Designing BIBTEX Styles](https://texdoc.org/serve/btxhak.pdf/0)
+3. [Change .bst file to eliminate brackets in reference list](https://tex.stackexchange.com/questions/329063/change-bst-file-to-eliminate-brackets-in-reference-list)
+4. [In which programming language are bst (BibTeX style) files written?](https://tex.stackexchange.com/questions/157045/in-which-programming-language-are-bst-bibtex-style-files-written)
